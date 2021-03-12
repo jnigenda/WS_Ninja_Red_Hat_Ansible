@@ -1,0 +1,7 @@
+passwd
+ssh-keygen
+ip a
+ssh-copy-id 172.17.0.21
+ssh 172.17.0.65
+exit
+yum install ansible
